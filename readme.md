@@ -3,6 +3,18 @@
 ## Overview
 This project is a web framework configured using Django, with the frontend created using Bootstrap. The core technology of the backend is an AI-based prediction function that predicts the safety of water based on user-inputted data.
 
+## Dependencies
+1.Python 
+2.Django 
+3.Bootstrap 
+4.PyTorch 
+
+## How to Run 
+프로젝트를 실행하려면, 먼저 가상환경을 구성하고, 필요한 종속성을 설치하세요. 
+그 다음 WaterAnalysis 클래스를 사용하여 water_predict 함수를 호출합니다.
+
+
+
 ## Code Snippet
 ```python
 import torch
@@ -67,23 +79,8 @@ if __name__ == "__main__":
     water_pred = main.water_predict(f_1, f_2, f_3, f_4)
 
     print(water_pred)
+```
 
-
-
-
-# Dependencies
-1.Python 
-2.Django 
-3.Bootstrap 
-4.PyTorch 
-
-
-
-#How to Run 
-프로젝트를 실행하려면, 먼저 가상환경을 구성하고, 필요한 종속성을 설치하세요. 
-그 다음 WaterAnalysis 클래스를 사용하여 water_predict 함수를 호출합니다.
-
-
-
-#License
+## License
 이 프로젝트는 MIT 라이센스에 따라 라이센스가 부여됩니다.
+
