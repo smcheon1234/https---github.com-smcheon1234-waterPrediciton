@@ -3,6 +3,7 @@
 ## Overview
 This project is a web framework configured using Django, with the frontend created using Bootstrap. The core technology of the backend is an AI-based prediction function that predicts the safety of water based on user-inputted data.
 
+[한글]
 이 프로젝트는 Django를 사용하여 구성된 웹 프레임워크로, 프론트엔드는 Bootstrap을 사용하여 생성되었습니다. 백엔드의 핵심 기술은 사용자가 입력한 데이터에 기반하여 물의 안전성을 예측하는 인공지능 기반 예측 기능입니다.
 
 ## Snap Shots
@@ -27,6 +28,7 @@ python manage.py runserver
 When you run the above command, the development server starts, and it hosts the web application on port 8000 by default. You can check that the Django application is running by connecting to http://localhost:8000/ on your browser.
 
 
+[한글]
 프로젝트를 실행하려면, 먼저 가상환경을 구성하고, 필요한 종속성을 설치하세요. 
 그 다음 WaterAnalysis 클래스를 사용하여 water_predict 함수를 호출합니다.
 
@@ -105,6 +107,6 @@ if __name__ == "__main__":
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.</br>
 이 프로젝트는 MIT 라이센스에 따라 라이센스가 부여됩니다.
 
