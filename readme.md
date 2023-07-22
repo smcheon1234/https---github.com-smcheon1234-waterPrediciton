@@ -10,7 +10,7 @@ This project is a web framework configured using Django, with the frontend creat
 ![Example Image](images/4.png)
 
 ## Dependencies
-1.Python 
+1.Python /br
 2.Django 
 3.Bootstrap 
 4.PyTorch 
