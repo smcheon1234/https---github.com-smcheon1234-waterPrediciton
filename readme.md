@@ -11,13 +11,19 @@ This project is a web framework configured using Django, with the frontend creat
 
 ## Dependencies
 1.Python </br>
-2.Django 
-3.Bootstrap 
+2.Django </br>
+3.Bootstrap </br>
 4.PyTorch 
 
 ## How to Run 
 프로젝트를 실행하려면, 먼저 가상환경을 구성하고, 필요한 종속성을 설치하세요. 
 그 다음 WaterAnalysis 클래스를 사용하여 water_predict 함수를 호출합니다.
+
+Django 개발 서버를 실행합니다:
+
+python manage.py runserver
+
+위의 명령어를 실행하면, 개발 서버가 시작되며, 기본적으로 8000번 포트에서 웹 애플리케이션을 호스팅합니다. 브라우저에서 http://localhost:8000/로 접속하면, Django 애플리케이션이 실행되는 것을 확인할 수 있습니다.
 
 
 
