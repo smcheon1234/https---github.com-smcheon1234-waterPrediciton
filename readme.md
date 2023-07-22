@@ -5,6 +5,9 @@ This project is a web framework configured using Django, with the frontend creat
 
 ## Snap Shots
 ![Example Image](images/1.png)
+![Example Image](images/2.png)
+![Example Image](images/3.png)
+![Example Image](images/4.png)
 
 ## Dependencies
 1.Python 
