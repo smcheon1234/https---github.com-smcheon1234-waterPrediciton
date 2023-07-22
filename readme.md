@@ -4,7 +4,7 @@
 This project is a web framework configured using Django, with the frontend created using Bootstrap. The core technology of the backend is an AI-based prediction function that predicts the safety of water based on user-inputted data.
 
 ## Snap Shots
-![Example Image](images/example.png)
+![Example Image](images/1.png)
 
 ## Dependencies
 1.Python 
